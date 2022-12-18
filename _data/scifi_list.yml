@@ -1,0 +1,66 @@
+items:
+	- title: 2001: A Space Odyssey
+	  type: movie
+	  status: None
+	  year: 1968
+
+	- title: Raised by Wolves 
+	  type: series
+	  status: cancelled
+	  year: 2020-2022
+
+	- title: Westworld
+	  type: series
+	  status: cancelled
+	  year: 2016-2022
+
+	- title: Dr. Strangelove or: How I Learned to Stop Worrying and 
+Love the Bomb
+	  type: movie
+	  status: cancelled
+	  year: 1964
+
+	- title: 1984
+	  type: book
+	  status: none
+	  year: 1949
+
+	- title: La Planète Sauvage (Fantastic Planet)
+	  type: movie
+	  status: none
+	  year: 1973
+
+	- title: The Peripheral
+	  type: series
+	  status: ongoing
+	  year: 2022
+
+	- title: The Expanse
+	  type: series
+	  status: cancelled
+	  year: 2015-2022
+
+	- title: Foundation
+	  type: series
+
+	- title: Severance
+	  type: series
+
+	- title: Dark
+	  type: series
+
+	- title: Battlestar Galactica
+	  type: series
+
+	- title: Star Trek: The Original Series
+	  type: series 
+
+	- title: Star Trek: Strange New Worlds
+	  type: series
+
+	- title: Star Trek: The Next Generation
+	  type: series
+
+	- title: Arrival
+	  type: movie
+ 
